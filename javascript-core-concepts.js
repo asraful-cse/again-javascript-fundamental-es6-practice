@@ -1,5 +1,5 @@
 // 30_5-1:: Five javaScript Fundamentals that you now .. five fundamental step of javascript .. and es6.
-
+// /:30_5-2: Array methods map , filter , find , forEach , push , pop main part of array ES6..
 
 // how to Decleare veriable :there are three part of variable :: 1,number , 2, string , 3, boolean:
 // step one variable part:::
